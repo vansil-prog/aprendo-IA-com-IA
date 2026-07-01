@@ -59,7 +59,7 @@ Como a IA é um conceito novo e atual que está mudando a forma de trabalhar par
 importe fontes a respeito do assunto ensinando as vantagens de usar a IA e os primeiros passos pra começar/
 Importe  fontes  sobre a ferramentas atuais mais modernas para uso de IA  e que estão tendo um desenvolvimento e evolução de recursos muito rápido
 
-conteudo na integra:
+Conteúdo na integra:
 Em 2026, o vibe coding consolidou-se como uma tendência que permite criar sites e aplicativos funcionais apenas através de comandos em linguagem natural, sem a necessidade de dominar linguagens de programação complexas
 . Para iniciantes, as ferramentas mais recomendadas são aquelas que funcionam diretamente no navegador e cuidam de todo o processo, desde a geração do código até a publicação
 .
